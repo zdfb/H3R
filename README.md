@@ -27,6 +27,6 @@
   python train.py
   ```
 ## Reference
-https://github.com/baoshengyu/H3R
-https://github.com/vuthede/heatmap-based-landmarker
-https://elte.me/2021-03-10-keypoint-regression-fastai#random-rounding-and-high-resolution-net
++ https://github.com/baoshengyu/H3R
++ https://github.com/vuthede/heatmap-based-landmarker
++ https://elte.me/2021-03-10-keypoint-regression-fastai#random-rounding-and-high-resolution-net
